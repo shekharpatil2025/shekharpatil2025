@@ -16,13 +16,22 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/shekhar-patil4545/)
+## 🚀 Coding Profiles
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)](https://github.com/shekharpatil2025)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/shekharpatil_45)
-
-[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge\&logo=x)](https://x.com/shekharp_45)
+<p align="center">
+  <a href="https://github.com/shekharpatil2025">
+    <img src="https://img.shields.io/badge/GitHub-shekharpatil2025-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/shekhar-patil4545/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shekhar%20Patil-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://x.com/shekharp_45">
+    <img src="https://img.shields.io/badge/X-@shekharp__45-black?style=for-the-badge&logo=x">
+  </a>
+  <a href="https://instagram.com/shekharpatil_45">
+    <img src="https://img.shields.io/badge/Instagram-shekharpatil__45-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
 
 ---
 
@@ -93,22 +102,23 @@
 
 ---
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shekharpatil2025\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shekharpatil2025\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekharpatil2025\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🏆 Achievements
 
 * 🥇 Institute Rank 1 on GeeksforGeeks
 * ⭐ 5-Star HackerRank DSA Badge
 * 💯 Solved 999+ DSA Problems
 * 👨‍💻 1+ Year Experience in Enterprise Backend Development
+
+---
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shekharpatil2025&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shekharpatil2025&theme=tokyo-night" alt="Contribution Graph" />
+</p>
 
 ---
 
